@@ -25,10 +25,9 @@ Ver pesos, flechas y distancias de manera visual
 
 ✔️ Visualización dinámica del grafo con nodos y aristas
 
-
-Esta descripción fue creada con ChatGPT
-
-
 ✔️ Compatible con grafos dirigidos
 
 ✔️ Hasta 50 nodos
+
+
+Esta descripción fue creada con ChatGPT
