@@ -31,3 +31,32 @@ Ver pesos, flechas y distancias de manera visual
 
 
 Esta descripción fue creada con ChatGPT
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🛰️ Dijkstra’s Algorithm with Graphical User Interface in Python
+
+This project implements Dijkstra’s algorithm to compute the shortest paths in directed, weighted graphs.
+It includes a modern graphical interface built with PyQt5 that allows you to:
+
+Create custom adjacency matrices
+
+Define start and end nodes
+
+Compute the shortest path
+
+Visualize the graph with nodes arranged in a circular layout
+
+View weights, arrows, and distances in a clean visual format
+
+📌 Key Features
+
+✔️ Clean implementation of Dijkstra’s algorithm
+✔️ Modern UI with custom QSS styling
+✔️ Visual adjacency matrix editor
+✔️ Detection of invalid values and infinite weights
+✔️ Dynamic graph visualization with nodes and edges
+✔️ Fully supports directed graphs
+✔️ Up to 50 nodes
+
+This description was created by ChatGPT
